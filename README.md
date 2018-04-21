@@ -1,2 +1,2 @@
 # react-gallery
-react es6 basic framework
+react_project_one：react-es6-gallery
