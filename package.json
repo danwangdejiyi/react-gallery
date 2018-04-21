@@ -1,0 +1,26 @@
+{
+  "name": "react-gallery",
+  "version": "1.0.0",
+  "description": "react_project_one：react-es6-gallery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danwangdejiyi/react-gallery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danwangdejiyi/react-gallery/issues"
+  },
+  "homepage": "https://github.com/danwangdejiyi/react-gallery#readme",
+  "devDependencies": {
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "webpack": "^4.6.0",
+    "webpack-cli": "^2.0.15"
+  }
+}
